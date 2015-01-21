@@ -1,2 +1,2 @@
 # Distributions-and-Maths
-Python scripts to create various distributions
+Python scripts to create various distributions and calculate mathematical constants. 
